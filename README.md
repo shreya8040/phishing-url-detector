@@ -1,3 +1,8 @@
+**Project type:** `Group project for college | Sem 4`
+
+
+
+
 # 🔒Phishing URL Detection
 
 ## Overview
