@@ -1,4 +1,4 @@
-**Project type:** `Group project for college | Sem 4`
+**Project type:** `Group project for college`  `Sem 4`
 
 
 
